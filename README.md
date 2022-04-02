@@ -1,1 +1,1 @@
-![github stats](https://github-readme-stats.vercel.app/api?adnan159=sarah-hart-landolt&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan159)](https://github.com/adnan159/github-readme-stats)
