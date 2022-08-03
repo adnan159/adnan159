@@ -1,6 +1,6 @@
 
 ### Hi, I'm Osman Haider Adnan
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan159&label=Profile%20views&color=0e75b6&style=flat" alt="adnan159" /> </p>
 
 _**LATEST UPDATE:**_ Learning  Core PHP
 
