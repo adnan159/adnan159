@@ -15,5 +15,5 @@ _**LATEST UPDATE:**_ Learning  Core PHP & React
 
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=adnan159&&show_icons=true&title_color=161239&icon_color=150829&text_color=692ACF&bg_color=ffffff">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan159&theme=black-blue" alt="nameisjayant"/>
