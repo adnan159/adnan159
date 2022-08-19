@@ -12,20 +12,5 @@ _**LATEST UPDATE:**_ Learning  Core PHP & React
 <a href="https://profiles.wordpress.org/adnan159"> WordPress </a>
 <a href="https://www.facebook.com/osmanhaider.adnan"> Facebook </a>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/osman-haider-adnan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=adnan159&&show_icons=true&title_color=161239&icon_color=150829&text_color=692ACF&bg_color=ffffff">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan159&theme=black-blue" alt="nameisjayant"/>
