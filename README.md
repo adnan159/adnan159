@@ -5,7 +5,7 @@
 _**LATEST UPDATE:**_ Learning  Core PHP & React
 
 - 💻 I'm a WordPress Developer.
-- 👨‍💻 working as a Software Engineer at ***<a href="https://webappick.com/">WebAppick</a>***.
+- 👨‍💻 Working as a Software Engineer at ***<a href="https://webappick.com/">WebAppick</a>***.
 - 😍 Love to Learning ❤️
 
 <a href="https://www.linkedin.com/in/osman-haider-adnan/"> Linkedin </a>
